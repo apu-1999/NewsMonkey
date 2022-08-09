@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Exclusive discounts on summer products from “CBS Mornings Deals”",
+        "description": "On this week's “CBS Mornings Deals,” lifestyle expert Elizabeth Werner discusses exclusive deals on summer essentials.",
+        "url": "https://www.cbsnews.com/video/exclusive-discounts-on-summer-products-from-cbs-mornings-deals/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/08/09/07ec8d1e-3f99-404a-a7a4-b8d38ad5c601/thumbnail/1200x630/8cb259eb9fb6faa503ec4c30a1ff6a33/0809-cbsmornings-cbsmdeals-1185401-640x360.jpg",
+        "publishedAt": "2022-08-09T17:57:26+00:00",
+        "content": "Watch CBS News\r\nCopyright ©2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+      },
+      {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Caroline Downey",
+        "title": "‘We Are a Failing Nation’: Trump Releases Campaign Ad-Style Video after FBI Raids Mar-a-Lago",
+        "description": "The ad was released after FBI agents raided Mar-a-Lago, reportedly to search for classified documents Trump removed from the White House.",
+        "url": "https://www.nationalreview.com/news/we-are-a-failing-nation-trump-releases-campaign-ad-style-video-after-fbi-raids-mar-a-lago/",
+        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/08/Donald-Trump-30.jpg?fit=2057%2C1200",
+        "publishedAt": "2022-08-09T12:09:31Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Caroline Downey",
+        "title": "‘We Are a Failing Nation’: Trump Releases Campaign Ad-Style Video after FBI Raids Mar-a-Lago",
+        "description": "The ad was released after FBI agents raided Mar-a-Lago, reportedly to search for classified documents Trump removed from the White House.",
+        "url": "https://www.nationalreview.com/news/we-are-a-failing-nation-trump-releases-campaign-ad-style-video-after-fbi-raids-mar-a-lago/?utm_source=recirc-%5BSCREENSIZE%5D&utm_medium=homepage&utm_campaign=hero&utm_content=related&utm_term=second",
+        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/08/Trump-Campaign-Add-Screengrab.jpg?fit=2057%2C1200",
+        "publishedAt": "2022-08-09T12:09:31Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "CARA ANNA",
+        "title": "Polls open in Kenyan presidential election said to be tight",
+        "description": "NAIROBI, Kenya (AP) — Polls opened Tuesday in Kenya's unusual presidential election, where a longtime opposition leader who is backed by the outgoing president faces the deputy president who styles himself as the outsider.",
+        "url": "https://apnews.com/0858d9e631860e9a95090575e740ec3f",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/7da2a8d1f84c4a369768e6421863266a/3000.jpeg",
+        "publishedAt": "2022-08-09T03:09:39Z",
+        "content": "NAIROBI, Kenya (AP) — Polls opened Tuesday in Kenya's unusual presidential election, where a longtime opposition leader who is backed by the outgoing president faces the deputy president who styles h… [+2726 chars]"
+      },
+      {
+        "source": {
+          "id": "mtv-news",
+          "name": "MTV News"
+        },
+        "author": "Athena Serrano",
+        "title": "Harry Styles Breaks Out The Party Pajamas In 'Late Night Talking' Video",
+        "description": "The British pop star has an afternoon of fantastical bed-hopping in his latest visual",
+        "url": "http://www.mtv.com/news/3188547/harry-styles-late-night-talking-music-video/",
+        "urlToImage": "https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:702454?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+        "publishedAt": "2022-07-13T19:09:02Z",
+        "content": "Harry Styles has been doing all this Late Night Talking, and he is ready to take you for a ride in his bed literally.\r\nThe British pop star dropped the new music video for his latest Harry's House hi… [+2632 chars]"
+      }
+    ]
+  }
