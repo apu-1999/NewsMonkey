@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 5,
+    "totalResults": 4,
     "articles": [
       {
         "source": {
@@ -15,19 +15,7 @@
         "publishedAt": "2022-08-09T17:57:26+00:00",
         "content": "Watch CBS News\r\nCopyright ©2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
       },
-      {
-        "source": {
-          "id": "national-review",
-          "name": "National Review"
-        },
-        "author": "Caroline Downey",
-        "title": "‘We Are a Failing Nation’: Trump Releases Campaign Ad-Style Video after FBI Raids Mar-a-Lago",
-        "description": "The ad was released after FBI agents raided Mar-a-Lago, reportedly to search for classified documents Trump removed from the White House.",
-        "url": "https://www.nationalreview.com/news/we-are-a-failing-nation-trump-releases-campaign-ad-style-video-after-fbi-raids-mar-a-lago/",
-        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/08/Donald-Trump-30.jpg?fit=2057%2C1200",
-        "publishedAt": "2022-08-09T12:09:31Z",
-        "content": null
-      },
+      
       {
         "source": {
           "id": "national-review",
@@ -37,7 +25,7 @@
         "title": "‘We Are a Failing Nation’: Trump Releases Campaign Ad-Style Video after FBI Raids Mar-a-Lago",
         "description": "The ad was released after FBI agents raided Mar-a-Lago, reportedly to search for classified documents Trump removed from the White House.",
         "url": "https://www.nationalreview.com/news/we-are-a-failing-nation-trump-releases-campaign-ad-style-video-after-fbi-raids-mar-a-lago/?utm_source=recirc-%5BSCREENSIZE%5D&utm_medium=homepage&utm_campaign=hero&utm_content=related&utm_term=second",
-        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/08/Trump-Campaign-Add-Screengrab.jpg?fit=2057%2C1200",
+        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/08/Donald-Trump-30.jpg?fit=2057%2C1200",
         "publishedAt": "2022-08-09T12:09:31Z",
         "content": null
       },
