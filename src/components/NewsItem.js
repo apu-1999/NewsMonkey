@@ -1,13 +1,15 @@
-import React, { Component } from 'react'
+import React from 'react';
 
-export class NewsItem extends Component {
-  render() {
-    let {title, description, imageUrl, newsUrl, author, date, sourceName} = this.props;
+const NewsItem = (props)=> {
+    let {title, description, imageUrl, newsUrl, author, date, sourceName} = props;
     return (
       <div className='my-3'>
         <div className="card">
-            <span class="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{left:'90%',zIndex:'1'}}>{sourceName} </span> 
-            <img src={imageUrl?imageUrl:"https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/16/asteroid-1-1-1136502-1660627156.jpg"} className="card-img-top" alt="..."/>
+          <div style={{display:'flex',justifyContent:'flex-end',position:'absolute',right:'0'}}>
+            <span className="badge rounded-pill bg-danger" style={{left:'90%',zIndex:'1'}}>{sourceName} </span>
+          </div>
+             
+            <img src={imageUrl?imageUrl:"https://cdn.mos.cms.futurecdn.net/iR2LcnDPQVaewJBhvkvKh3-1200-80.jpg"} className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">{title}</h5>
                 <p className="card-text">{description}</p>
@@ -18,7 +20,7 @@ export class NewsItem extends Component {
         </div>
       </div>
     )
-  }
+  
 }
 
 export default NewsItem
